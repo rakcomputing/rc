@@ -475,7 +475,7 @@ export default function Home() {
               </div>
 
 
-                        {/* Project 6 */}
+                 {/* Project 6 */}
               <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
                 <div className="relative h-48">
                   <Image
@@ -539,7 +539,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold mb-2 font-audiowide" lang="en">Website Any Article</h3>
+                  <h3 className="text-xl font-semibold mb-2 font-audiowide" lang="en">iNews Website </h3>
                   <p className="text-gray-600 dark:text-gray-300 mb-4" lang="en">
                     This is website for any article easy for Astera !
                  </p>
@@ -588,7 +588,7 @@ export default function Home() {
                     </Link>
                    
                     <Link
-                      href="https://doctoridea-pannel-six.vercel.app/login"
+                      href="https://inews-delta.vercel.app/home"
                       className="text-blue-600 hover:text-blue-800 font-audiowide" lang="en"
                       target="_blank"
                     >
